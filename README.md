@@ -25,7 +25,7 @@ Here are a few of my projects that showcase my skills and knowledge in web devel
 --->
 ## Contact Me 📨
 
-If you would like to get in touch with me, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mihnea/). I am always open to new opportunities and collaborations!
+If you would like to get in touch with me, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/georgescu-mihnea-066885206/). I am always open to new opportunities and collaborations!
 
 Thank you for taking the time to check out my profile. I look forward to connecting with you!
 
