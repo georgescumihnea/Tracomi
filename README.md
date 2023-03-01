@@ -1,4 +1,5 @@
-# Hi there, I'm Mihnea [!👋 (https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif)](https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif)
+# Hi there, I'm Mihnea ![animated gif](https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif)
+
 
 ## About Me
 
