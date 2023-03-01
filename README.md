@@ -5,8 +5,10 @@
 I am a beginner web developer, currently studying Front-end Development in my free time and Computer Sciene(Data Structures & Algorithms, Fullstack Web Development(Python - Flask, HTML5,CSS3,JS), Java) & Economics at RAU - Romanian American University. 
 
 My passion for technology and design led me to pursue a career in web development, and I am eager to learn more and grow my skills in this field.
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 ## Skills ✅
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,git)](https://skillicons.dev)
 
 - HTML5
 - CSS3
