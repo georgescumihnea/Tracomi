@@ -31,6 +31,6 @@ Thank you for taking the time to check out my profile. I look forward to connect
 
 
 <!---
-Tracomi/Tracomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+georgescumihnea/georgescumihnea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
