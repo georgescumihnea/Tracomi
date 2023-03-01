@@ -1,6 +1,34 @@
-- 👋 Hi, I’m @Tracomi
-- 👀 I’m interested in web dev.
-- 🌱 I’m currently learning NodeJS.
+# Hi there, I'm Mihnea 👋
+
+## About Me
+
+I am a beginner web developer, currently studying Front-end Development in my free time and Computer Sciene(Data Structures & Algorithms, Fullstack Web Development(Python - Flask, HTML5,CSS3,JS), Java) & Economics at RAU - Romanian American University. 
+
+My passion for technology and design led me to pursue a career in web development, and I am eager to learn more and grow my skills in this field.
+
+## Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- TailwindCSS
+- Git
+<!---
+## Projects
+
+Here are a few of my projects that showcase my skills and knowledge in web development:
+
+- [Personal Portfolio](https://example.com) - A responsive website that showcases my skills, experience, and projects.
+- [E-commerce Website](https://example.com) - A fully functional online store built using Bootstrap and JavaScript.
+- [Blog Website](https://example.com) - A simple and elegant blog website with a clean layout and user-friendly interface.
+--->
+## Contact Me
+
+If you would like to get in touch with me, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mihnea/). I am always open to new opportunities and collaborations!
+
+Thank you for taking the time to check out my profile. I look forward to connecting with you!
+
 
 <!---
 Tracomi/Tracomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
