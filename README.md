@@ -10,7 +10,6 @@ My passion for technology and design led me to pursue a career in web developmen
 
 - HTML5
 - CSS3
-- JavaScript
 - React
 - TailwindCSS
 - Git
