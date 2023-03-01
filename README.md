@@ -8,7 +8,7 @@ My passion for technology and design led me to pursue a career in web developmen
 
 ## Skills ✅
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,vite,tailwind,git,)](https://skillicons.dev)
 
 - HTML5
 - CSS3
