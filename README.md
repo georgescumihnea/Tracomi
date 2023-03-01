@@ -6,7 +6,7 @@ I am a beginner web developer, currently studying Front-end Development in my fr
 
 My passion for technology and design led me to pursue a career in web development, and I am eager to learn more and grow my skills in this field.
 
-## Skills
+## Skills ✅
 
 - HTML5
 - CSS3
@@ -23,7 +23,7 @@ Here are a few of my projects that showcase my skills and knowledge in web devel
 - [E-commerce Website](https://example.com) - A fully functional online store built using Bootstrap and JavaScript.
 - [Blog Website](https://example.com) - A simple and elegant blog website with a clean layout and user-friendly interface.
 --->
-## Contact Me
+## Contact Me 📨
 
 If you would like to get in touch with me, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mihnea/). I am always open to new opportunities and collaborations!
 
