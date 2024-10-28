@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since Highschool<br>📚 I'm currently learning Fullstack Development & Game Development<br>🎯 Dreams & Goals: Create a successful & fun multiplayer game.<br>🎲 Fun fact: I have a cat. His name is Zorro. 🐈<br>🎓 Studies: Bachelor's in Computer Science for Economics , Romanian-American University</p>
+<p align="left">✨ Creating bugs since Highschool<br>📚 I'm currently freelancing as a Fullstack Developer.<br>🎯 Dreams & Goals: Create a successful & fun multiplayer game.<br>🎲 Fun fact: I have a cat. His name is Zorro. 🐈<br>🎓 Studies: Bachelor's in Computer Science for Economics , Romanian-American University</p>
 
 ###
 
